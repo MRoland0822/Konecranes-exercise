@@ -27,3 +27,6 @@ Usage
 -Run the MovingVehicleGUI class to launch the application.
 
 -Use the GUI controls to add vehicles, move vehicles, and modify parameters.
+
+![image](https://github.com/MRoland0822/Konecranes-exercise/assets/123257673/30b7c23f-dacb-449e-b7ff-f9b460cdc0d7)
+
